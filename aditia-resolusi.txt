@@ -1,6 +1,7 @@
 Belajar Konsisten 2024
 -HTML
 -CSS
+-BOOTSRAP CSS FRAMEWORK
 -JAVASCRIPT
--Git
--FRAMEWORK
+-JavaSkript DOM
+
