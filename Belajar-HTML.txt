@@ -1,7 +1,8 @@
 Jadwal Belajar
 
 -senin
--Selasa
+10-15
+-Selasa 10-17
 -Rabu
 -Kamis
 -Jumat
