@@ -5,4 +5,4 @@ Jadwal Belajar
 -Selasa 10-17 database SQL
 -Rabu
 -Kamis
--Jumat 13 - 15
+-Jumat 13 - 15 database mongoDB
