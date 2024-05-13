@@ -1,8 +1,8 @@
 Jadwal Belajar
 
--senin
+-senin fundamental database
 10-15
--Selasa 10-17
+-Selasa 10-17 database SQL
 -Rabu
 -Kamis
 -Jumat 13 - 15
