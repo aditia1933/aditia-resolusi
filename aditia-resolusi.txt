@@ -1,0 +1,5 @@
+Belajar Konsisten 2024
+-HTML
+-CSS
+-JAVASCRIPT
+-FRAMEWORK
