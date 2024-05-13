@@ -1,5 +1,4 @@
 Jadwal Belajar
-
 -senin HTML
 10-15
 -Selasa 10-17 CSS
