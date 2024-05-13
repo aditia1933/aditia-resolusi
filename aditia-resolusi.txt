@@ -2,4 +2,5 @@ Belajar Konsisten 2024
 -HTML
 -CSS
 -JAVASCRIPT
+-Git
 -FRAMEWORK
