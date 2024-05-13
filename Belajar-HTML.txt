@@ -6,3 +6,5 @@ Jadwal Belajar
 -Rabu
 -Kamis
 -Jumat 13 - 15 Java Script
+-sabtu
+-Minggu Bootstrap CSS
